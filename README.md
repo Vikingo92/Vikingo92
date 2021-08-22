@@ -2,7 +2,7 @@
 ## I'm Jimmy Linares!
 
 🌱 Actualmente estoy reforzando mis conocimientos en programación por medio de un Bootcamp realizado por Academia Geek, el cual estoy aprovechando al máximo. 
-Dispuesto a colaborar en diferentes proyectos
+Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distos tecnologías.
 
 
 <!--
