@@ -1,8 +1,9 @@
 ### Hi there 👋
 ## I'm Jimmy Linares!
 
-🌱 Actualmente estoy reforzando mis conocimientos en programación por medio de un Bootcamp realizado por Academia Geek, el cual estoy aprovechando al máximo. 
-Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías web.
+🌱 Actualmente estoy en un BootCamp de desarrollo web, el cual estoy aprovechando al máximo. 
+Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías.
+Contacto: (+57) 3017863863.
 
 
 <!--
