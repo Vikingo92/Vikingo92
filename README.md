@@ -3,7 +3,6 @@
 
 🌱 Actualmente estoy en un BootCamp de desarrollo web, el cual estoy aprovechando al máximo. 
 Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías.
-Contacto: (+57) 3017863863.
 
 
 <!--
