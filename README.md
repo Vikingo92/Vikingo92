@@ -2,9 +2,11 @@
 ## I'm Jimmy Linares!
 
 🌱 Actualmente estoy en un BootCamp de desarrollo web, el cual estoy aprovechando al máximo. 
-Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías.
- * Conocimientos en Js, Html5, Css.
-
+Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. Conocimientos en: 
+ * JavaScript.
+ * HTML5.
+ * CSS.
+ * MongoDB.
 
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
