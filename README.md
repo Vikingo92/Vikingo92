@@ -4,6 +4,8 @@
 🌱 Actualmente estoy en un BootCamp de desarrollo web, el cual estoy aprovechando al máximo. 
 Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. Conocimientos en: 
  * React.Js
+ * Redux
+ * Firebase
  * Styled-Components
  * JavaScript.
  * HTML5.
