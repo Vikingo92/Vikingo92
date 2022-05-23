@@ -3,7 +3,8 @@
 ## Frontend Developer
 
 🌱 Actualmente estoy en un Bootcamp de desarrollo web, el cual estoy aprovechando al máximo. 
-Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. Conocimientos en: 
+Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
+Mis Skills: 
  - ⚡ React.Js
  - ⚡ Redux
  - ⚡ Firebase
