@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## I'm Jimmy Linares!
-## Frontend Developer
+
 
 🌱 Actualmente estoy en un Bootcamp de desarrollo web, el cual estoy aprovechando al máximo. 
 Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
-Mis Skills: 
+### Mis skills: 
  - ⚡ React.Js
  - ⚡ Redux
  - ⚡ Firebase
