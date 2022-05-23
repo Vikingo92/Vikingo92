@@ -8,9 +8,9 @@ Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conoci
  * Firebase
  * Styled-Components
  * JavaScript.
- * HTML5.
+ * HTML.
  * CSS.
- * MongoDB.
+ 
 
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
