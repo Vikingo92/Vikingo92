@@ -12,7 +12,7 @@ Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conoci
  - ⚡ JavaScript.
  - ⚡ HTML.
  - ⚡ CSS.
- is a _special_
+ 
 
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
