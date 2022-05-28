@@ -4,7 +4,7 @@
 
 🌱 Actualmente estoy en un Bootcamp de desarrollo web, el cual estoy aprovechando al máximo. 
 Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
-### Tools: 
+### Skills: 
  - ⚡ React.Js
  - ⚡ Redux
  - ⚡ Firebase
