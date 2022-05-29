@@ -20,8 +20,12 @@ Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conoci
 <img align="left" alt="Html" width="30px" src="https://user-images.githubusercontent.com/83909856/170893483-15bab643-c010-410a-96fe-07d33f7621a6.png" />Html
 -
 <img align="left" alt="Css" width="30px" src="https://user-images.githubusercontent.com/83909856/170893490-05aa7a7e-4374-4a4b-83c8-5ac2bb2aa439.png" />Css
+-
+<img align="left" alt="Figma" width="30px" src="https://user-images.githubusercontent.com/83909856/170894121-240f1bd2-f69d-43cd-beb4-d0a256e1a353.png" />Figma
+-
+<img align="left" alt="Adobe Illustrator" width="30px" src="https://user-images.githubusercontent.com/83909856/170894145-53bfbcf4-795a-46ad-a119-4325d4ebca9e.png" />Adobe Illustrator
 
- 
+
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
