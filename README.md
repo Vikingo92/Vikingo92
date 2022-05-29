@@ -7,6 +7,24 @@
 _______
 
 ## Skills: 
+
+<img align="left" alt="Firebase" width="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img align="left" alt="Firebase" width="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img align="left" alt="Firebase" width="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+
+## Contact
+
+<img align="left" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />[blog]
+
+[blog]:jimmy_lv@outlook.com
+
+
+
+
+<!--
+**Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <img align="left" alt="React.js" width="30px" src="https://user-images.githubusercontent.com/83909856/170893270-a8502188-49b1-4c6e-a95f-16ecd19de1f3.png" />React.js
 -
 <img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/83909856/170892937-1c8806a3-cbcb-4db7-aa24-cc87e7924d91.png" />Redux
@@ -25,10 +43,6 @@ _______
 -
 <img align="left" alt="Adobe Illustrator" width="30px" src="https://user-images.githubusercontent.com/83909856/170894145-53bfbcf4-795a-46ad-a119-4325d4ebca9e.png" />Adobe Illustrator
 -
-
-
-<!--
-**Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
