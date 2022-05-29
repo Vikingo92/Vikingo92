@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![jl](https://user-images.githubusercontent.com/83909856/170891708-80e478e2-6969-4544-84a9-57b6b9cb6801.gif)
+
+### Hi there 👋
 
 🌱 Actualmente estoy en un Bootcamp de desarrollo web, el cual estoy aprovechando al máximo. 
 Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
