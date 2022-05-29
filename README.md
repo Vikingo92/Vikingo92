@@ -5,8 +5,8 @@
 
 ### Actualmente estoy en un Bootcamp de desarrollo web, el cual estoy aprovechando al máximo. 
 ### Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
--
-### Skills: 
+
+## Skills: 
 <img align="left" alt="React.js" width="30px" src="https://user-images.githubusercontent.com/83909856/170893270-a8502188-49b1-4c6e-a95f-16ecd19de1f3.png" />React.js
 -
 <img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/83909856/170892937-1c8806a3-cbcb-4db7-aa24-cc87e7924d91.png" />Redux
