@@ -21,7 +21,7 @@ Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conoci
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![react](https://user-images.githubusercontent.com/83909856/170892574-0db55451-3c6d-4f33-b0a8-20d71abaab3c.png)
+![react](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
