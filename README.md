@@ -15,13 +15,11 @@ Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conoci
  - ⚡ HTML.
  - ⚡ CSS.
  
-<a href="https://github.com/d2-projects/d2-admin" target="_blank"><img src="https://raw.githubusercontent.com/FairyEver/d2-admin/master/docs/image/d2-admin@2x.png" width="200"></a>
-
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![react](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+![react](react.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
