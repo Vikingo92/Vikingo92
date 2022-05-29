@@ -12,10 +12,11 @@ _______
 <img align="left" alt="Firebase" width="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img align="left" alt="Firebase" width="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 
+______
 
 ## Contact
 
-[<img align="left" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jimmy_lv@outlook.com?)
+[<img align="left" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jimmy_lv@outlook.com)
 
 
 
