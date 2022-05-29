@@ -7,9 +7,9 @@
 Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
 -
 ### Skills: 
-1. <img align="left" alt="React.js" width="30px" src="https://user-images.githubusercontent.com/83909856/170893270-a8502188-49b1-4c6e-a95f-16ecd19de1f3.png" />React.js
-1. <img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/83909856/170892937-1c8806a3-cbcb-4db7-aa24-cc87e7924d91.png" />Redux
-1. <img align="left" alt="Firebase" width="30px" src="https://user-images.githubusercontent.com/83909856/170893318-97bd047d-ac2c-49fb-8f81-8dfd219b62bf.png" />Firebase
+1 <img align="left" alt="React.js" width="30px" src="https://user-images.githubusercontent.com/83909856/170893270-a8502188-49b1-4c6e-a95f-16ecd19de1f3.png" />React.js
+1 <img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/83909856/170892937-1c8806a3-cbcb-4db7-aa24-cc87e7924d91.png" />Redux
+1 <img align="left" alt="Firebase" width="30px" src="https://user-images.githubusercontent.com/83909856/170893318-97bd047d-ac2c-49fb-8f81-8dfd219b62bf.png" />Firebase
  <img align="left" alt="Styled-Components" width="30px" src="https://user-images.githubusercontent.com/83909856/170893399-9264ac0b-c5a5-4452-ae47-bd9054a12464.png" />Styled-Components
 - <img align="left" alt="JavaScript" width="30px" src="https://user-images.githubusercontent.com/83909856/170893446-f5e7b4e4-08ed-4237-bfe5-f249972627a3.png" />JavaScript
 - <img align="left" alt="Html" width="30px" src="https://user-images.githubusercontent.com/83909856/170893483-15bab643-c010-410a-96fe-07d33f7621a6.png" />Html
