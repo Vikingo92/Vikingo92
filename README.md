@@ -1,4 +1,5 @@
-![jl](https://user-images.githubusercontent.com/83909856/170891708-80e478e2-6969-4544-84a9-57b6b9cb6801.gif)
+![I'm Jimmy linares](https://user-images.githubusercontent.com/83909856/170892027-ac5709c7-7bbe-403c-9bae-bec016ee4a2d.gif)
+
 
 ### Hi there 👋
 
