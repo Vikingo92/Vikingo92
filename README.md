@@ -15,9 +15,9 @@ _______
 
 ## Contact
 
-<img align="left" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />[blog]
+[<img align="left" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jimmy_lv@outlook.com?)
 
-[blog]:jimmy_lv@outlook.com
+
 
 
 
