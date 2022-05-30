@@ -21,10 +21,10 @@ _______
 <img align="left" alt="Figma" width="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img align="left" alt="Adobe Illustrator" width="" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 
+__________________________
 
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 [<img align="center" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jimmy_lv@outlook.com)
 [<img align="center" alt="Outlook" width="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][]
