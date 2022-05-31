@@ -6,7 +6,7 @@
 ### Actualmente estoy en un Bootcamp de desarrollo web, el cual estoy aprovechando al máximo. Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
 _______
 
-## Skills: 
+## Skills
 
 <img align="left" alt="React" width="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Redux" width="" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -25,7 +25,8 @@ _______
 <img align="left" alt="Heroku" width="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" alt="VsCode" width="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <br>
-___________________________________________________
+
+-
 
 ## Contact
 <p align="center">
