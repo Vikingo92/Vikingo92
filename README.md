@@ -28,10 +28,9 @@ _______
 ___________________________________________________
 
 ## Contact
-<p aling="center">
+<p align="center">
   
 <a href="https://www.linkedin.com/in/jimmy-linares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:jimmy_lv@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p/>
@@ -39,9 +38,6 @@ __________________________
 
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[<img align="center" alt="Outlook" width="" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:jimmy_lv@outlook.com)
-[<img align="center" alt="Outlook" width="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][]
 
 
 <img align="left" alt="React.js" width="30px" src="https://user-images.githubusercontent.com/83909856/170893270-a8502188-49b1-4c6e-a95f-16ecd19de1f3.png" />React.js
