@@ -28,7 +28,7 @@ _______
 ___________________________________________________
 
 ## Contact
-<a href="https://www.linkedin.com/in/jimmy-linares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jimmy-linares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 __________________________
 
