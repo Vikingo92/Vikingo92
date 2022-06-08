@@ -38,7 +38,7 @@ ________________________________________________________________________________
 <p/>
 
 
-** ![](https://komarev.com/ghpvc/?username=Vikingo92)
+ ![](https://komarev.com/ghpvc/?username=Vikingo92)
 
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
