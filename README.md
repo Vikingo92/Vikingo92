@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-### Actualmente estoy aprendiendo React Native y dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
+### Dispuesto a colaborar en diferentes proyectos que me permitan ampliar mis conocimietos sobre distintas tecnologías. 
 _______
 
 ## Skills
