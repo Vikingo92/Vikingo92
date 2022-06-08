@@ -37,6 +37,9 @@ ________________________________________________________________________________
 <a href="mailto:jimmy_lv@outlook.com?subject=¡Hola!%20Jimmy%20"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p/>
 
+
+** ![](https://komarev.com/ghpvc/?username=Vikingo92)
+
 <!--
 **Vikingo92/Vikingo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
